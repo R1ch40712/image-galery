@@ -8,19 +8,19 @@ body {
   text-align: center;
 }
 .container {
-  width: 600px;
+  width: 400px;
   margin: 10px auto;
   border: 5px solid white;
   overflow: auto;
 }
 .jumbo {
-  width: 600px;
-  height: 399px;
+  width: 400px;
+  height: 250px;
 }
 
 .thumb {
-  width: 200px;
-  height: 200px;
+  width: 133px;
+  height: 133px;
   float: left;
   border: 2px solid white;
   box-sizing: border-box;
